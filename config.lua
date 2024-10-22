@@ -1,5 +1,5 @@
 -- Config is only registered server-side.
-
+Config.Framework = "qb" --esx or qb
 --[[
     REWARD TYPES
     
